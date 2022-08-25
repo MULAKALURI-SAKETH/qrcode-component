@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [[Add live site URL here](https://qrcodecomponent-frontend.netlify.app/)]([https://your-live-site-url.com](https://qrcodecomponent-frontend.netlify.app/))
+- Live Site URL: [https://qrcodecomponent-frontend.netlify.app/](https://qrcodecomponent-frontend.netlify.app/)
 
 ## My process
 
